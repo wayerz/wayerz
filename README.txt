@@ -1,1 +1,1 @@
-hey, i'm arthur btw
+hey, i'm Arthur btw
