@@ -1,4 +1,4 @@
-hey, i'm Arthur btw
+hey, i'm Artur btw
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wayerz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&locale=en)<br/>
